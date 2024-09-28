@@ -1,0 +1,78 @@
+[
+    {
+        "name": "publication",
+        "size": [1080, 1080],
+        "logo_size": [100, 100],
+        "positions": {
+            "opaque_square": [30, 30],
+            "title": [540, 180],
+            "date_time": [540, 300],
+            "location": [540, 400],
+            "separator_line": [520, 530, 560, 530],
+            "description": [540, 590]
+        },
+        "font_sizes": {
+            "title": 70,
+            "date_time": 50,
+            "location": 50,
+            "description": 40
+        }
+    },
+    {
+        "name": "histoire",
+        "size": [1080, 1920],
+        "logo_size": [120, 120],
+        "positions": {
+            "opaque_square": [30, 30],
+            "title": [540, 200],
+            "date_time": [540, 370],
+            "location": [540, 470],
+            "separator_line": [520, 620, 560, 620],
+            "description": [540, 700]
+        },
+        "font_sizes": {
+            "title": 100,
+            "date_time": 70,
+            "location": 70,
+            "description": 60
+        }
+    },
+    {
+        "name": "réél",
+        "size": [1080, 1920],
+        "logo_size": [120, 120],
+        "positions": {
+            "opaque_square": [30, 30],
+            "title": [540, 200],
+            "date_time": [540, 370],
+            "location": [540, 470],
+            "separator_line": [520, 620, 560, 620],
+            "description": [540, 700]
+        },
+        "font_sizes": {
+            "title": 100,
+            "date_time": 70,
+            "location": 70,
+            "description": 60
+        }
+    },
+    {
+        "name": "affiche",
+        "size": [750, 1050],
+        "logo_size": [80, 80],
+        "positions": {
+            "opaque_square": [30, 30],
+            "title": [375, 125],
+            "date_time": [375, 250],
+            "location": [375, 350],
+            "separator_line": [360, 450, 390, 450],
+            "description": [375, 520]
+        },
+        "font_sizes": {
+            "title": 70,
+            "date_time": 50,
+            "location": 50,
+            "description": 40
+        }
+    }
+]

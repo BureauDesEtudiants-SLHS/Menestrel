@@ -1,0 +1,160 @@
+{
+  "themes": [
+    {
+      "month": "septembre",
+      "theme": "Université",
+      "color": "#7c7b7d",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "ufr-st.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "octobre",
+      "theme": "Octobre rose",
+      "color": "#F5F5F5",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "octobre-rose.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "novembre",
+      "theme": "Mouvembre",
+      "color": "#F5F5F5",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "mouvembre.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "decembre",
+      "theme": "Avent & Noël",
+      "color": "#b1cdde",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "avent-noel.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "janvier",
+      "theme": "Nouvel An",
+      "color": "#6e8392",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "fete-versailles.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "février",
+      "theme": "Saint Valentin",
+      "color": "#83a0a6",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "saint-valentin.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "mars",
+      "theme": "Printemps",
+      "color": "#908987",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "champs-lavande.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "avril",
+      "theme": "Pâques",
+      "color": "#9c9c9e",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "cloches.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "mai",
+      "theme": "Pentecôte",
+      "color": "#a4826a",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "pentecote.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "juin",
+      "theme": "Musique",
+      "color": "#4f687c",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "musique.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "juillet",
+      "theme": "Fête nationale",
+      "color": "#6f7f75",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "fete-nationale.jpg",
+      "origine": "",
+      "voeux": ""
+    },
+    {
+      "month": "août",
+      "theme": "Vacances",
+      "color": "#9d775e",
+      "fonts": {
+        "title": "titres.ttf",
+        "text": "textes.ttf"
+      },
+      "font_color": "#fffffb",
+      "background": "collioure.jpg",
+      "origine": "",
+      "voeux": ""
+    }
+  ]
+}

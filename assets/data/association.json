@@ -1,0 +1,268 @@
+{
+    "epistemes": {
+        "name": "Epistémès, anciennement Bureau Des Etudiants en Sciences & Techniques de Besançon",
+        "logo": "associations/epistemes.png",
+        "object": [
+            "l'ouverture à la culture Etudiante et Française",
+            "oeuvrer pour l'unité et la charité entre tous les Etudiants",
+            "valoriser les Etudiants, dans leur études, leurs missions",
+            "participer à la vie de la Faculté"
+        ],
+        "activity": [
+            "l'encadrement du Jovial (soirées étudiantes du jeudi soir)",
+            "la présence aux commémorations et fêtes nationnales",
+            "la participation à la vie du campus de la Bouloie",
+            "l'organisation des cérémonies de l'Association"
+        ],
+        "month_events": [
+            "Nous invitons une fois par mois tous les étudiants qui le souhaitent, au match du GBDH !",
+            "Nous invitons les étudiants à venir regarder ensemble une projection de film chaque mois : popcorn à la clef",
+            "Nous organisons une tombola pour certains soirs de Jovial (le jeudi), pour des consommations offertes par Michel le boss final des patrons de bar",
+            "Nous faisons découvrir la région, à qui le souhaite, par des visites de lieux historiques, culturels et scientifique",
+            "Venez découvrir chaque jour au coeur de notre faculté, le café d'Austerlitz, notre cafétariat étudiante"
+        ],
+        "organigramme": [
+            {
+                "nom": "Vandrepol",
+                "prenom": "Léo",
+                "filiere": "informatique",
+                "portrait": "",
+                "rattachement": "Présidence",
+                "role": "Président"
+            },
+            {
+                "nom": "Loureau",
+                "prenom": "Ryan",
+                "filiere": "informatique",
+                "portrait": "loureauryan.png",
+                "rattachement": "L'Office",
+                "role": "Vice-président"
+            },
+            {
+                "nom": "Foucon",
+                "prenom": "Willfrid",
+                "filiere": "informatique",
+                "portrait": "",
+                "rattachement": "Conseil de Garde",
+                "role": "Administrateur du Conseil && Précédent Président"
+            },
+            {
+                "nom": "Zerdoum",
+                "prenom": "Razine",
+                "filiere": "informatique",
+                "portrait": "zerdoumrazine.png",
+                "rattachement": "L'Office",
+                "role": "Vice-président"
+            },
+            {
+                "nom": "Viennot",
+                "prenom": "Davyd",
+                "filiere": "science de la vie",
+                "portrait": "viennotdavyd.png",
+                "rattachement": "L'Office",
+                "role": "Vice-président"
+            },
+            {
+                "nom": "Ilman",
+                "prenom": "Bastien",
+                "filiere": "Cursus Master Ingénurie",
+                "portrait": "ilmanbastien.png",
+                "rattachement": "La Sous-Office",
+                "role": "Bénévole"
+            },
+            {
+                "nom": "",
+                "prenom": "Joaquim",
+                "filiere": "Starter ST",
+                "portrait": "",
+                "rattachement": "La Sous-Office",
+                "role": "Bénévole"
+            },
+            {
+                "nom": "Luu",
+                "prenom": "David",
+                "filiere": "informatique",
+                "portrait": "luudavid.png",
+                "rattachement": "Office",
+                "role": "Vice-président"
+            },
+            {
+                "nom": "Delcey",
+                "prenom": "Thibault",
+                "filiere": "informatique",
+                "portrait": "delceythibault.png",
+                "rattachement": "La Sous-Office",
+                "role": "Bénévole"
+            },
+            {
+                "nom": "Duffour",
+                "prenom": "Esteban",
+                "filiere": "science de la vie",
+                "portrait": "",
+                "rattachement": "La Sous-Office",
+                "role": "Bénévole"
+            }
+        ]
+    },
+    "dps": {
+        "name": "Dead Pixel Society",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "rolistesdudimanche": {
+        "name": "Les Rôlistes du Dimanche",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "ofni": {
+        "name": "OFNI",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "agb": {
+        "name": "Association des Géologues de Besançon",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "mathnroll": {
+        "name": "Math'n'Roll",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "gnufc": {
+        "name": "Groupe Naturaliste Universitaire de Franche-Comté",
+        "logo": "",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    },
+    "cmifc": {
+        "name": "Association des CMI de Franche-Comté",
+        "logo": "cmifc.png",
+        "object": [
+            
+        ],
+        "activity": [
+            
+        ],
+        "month_events": [
+
+        ],
+        "organigramme": [
+            {
+                "nom": "",
+                "prenom": "",
+                "filiere": "",
+                "portrait": "",
+                "rattachement": "",
+                "role": ""
+            }
+        ]
+    }
+}

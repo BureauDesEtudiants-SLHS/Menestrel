@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Test",
+        "date": "05/09/2024",
+        "time": "10:00",
+        "location": "16 route de Gray, Besançon",
+        "description": "Description",
+        "partners": [
+            "cic.png",
+            "gbdh.png",
+            "lafontaine.png"
+        ]
+    },
+    {
+        "title": "Soirée Poule",
+        "date": "01/10/2024",
+        "time": "06:00",
+        "location": "16 route de Gray, Besançon",
+        "description": "Description",
+        "partners": [
+            "cic.png",
+            "gbdh.png",
+            "lafontaine.png"
+        ]
+    }
+]
