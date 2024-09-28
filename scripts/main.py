@@ -4,9 +4,9 @@ from imager import *
 
 def main():
 
-    # generate_all_events_publications()
+    generate_all_events_publications()
 
-    generate_all_hebdo_calendar()
+    # generate_all_hebdo_calendar()
 
     # generate_all_themes_publications()
 
