@@ -20,10 +20,10 @@ Envoyer la Mise à Jour
 ``git push``
 
 ## Créer un environnement python
-``python -m venv <nom de l'environnement>``
+``python -m venv venv``
 
 ## Rentrer dans l'environnement python
-``source <nom de l'environnement>/bin/activate``
+``source venv/bin/activate``
 
 ## Installer une nouvelle librairie (dans l'environnement python)
 ``pip install <nom de la librairie>``
