@@ -26,7 +26,7 @@ Envoyer la Mise à Jour
 ``source <nom de l'environnement>/bin/activate``
 
 ## Installer une nouvelle librairie (dans l'environnement python)
-``pip install <nom de la librairie>
+``pip install <nom de la librairie>``
 
 ## Mettre à Jour une librairie
 ``pip install --upgrade <nom de la librairie>``
