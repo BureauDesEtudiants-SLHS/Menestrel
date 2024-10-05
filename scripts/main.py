@@ -15,10 +15,8 @@ def main():
 
     # generate_association_presentation()
 
-    # TODO : mail format en HTML
-    # TODO : ajouter les événements
-    # TODO : ajouter les associations à Events
-    # TODO : production du calendrier
+    # TODO : changement des thèmes
+    # TODO : changement d'application d'image
 
     """
     assos = Association.load_association()
