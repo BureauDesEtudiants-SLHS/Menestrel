@@ -1,24 +1,14 @@
-saint-valentin.jpg
-	=> Couleur dominante #7c5e59 | Couleur complémentaire #83a0a6
-fete-versailles.jpg
-	=> Couleur dominante #907c6c | Couleur complémentaire #6e8392
-fete-nationale.jpg
-	=> Couleur dominante #90808a | Couleur complémentaire #6f7f75
-collioure.jpg
-	=> Couleur dominante #6188a0 | Couleur complémentaire #9d775e
-cloches.jpg
-	=> Couleur dominante #626260 | Couleur complémentaire #9c9c9e
-ufr-st.jpg
-	=> Couleur dominante #828382 | Couleur complémentaire #7c7b7d
-pentecote.jpg
-	=> Couleur dominante #5b7d95 | Couleur complémentaire #a4826a
-mouvembre.jpg
-	=> Couleur dominante #0075ea | Couleur complémentaire #ff8a14
-avent-noel.jpg
-	=> Couleur dominante #4e3221 | Couleur complémentaire #b1cdde
-champs-lavande.jpg
-	=> Couleur dominante #6f7578 | Couleur complémentaire #908987
-musique.jpg
-	=> Couleur dominante #b09783 | Couleur complémentaire #4f687c
-octobre-rose.jpg
-	=> Couleur dominante #fb6da0 | Couleur complémentaire #03915f
+BDE SLHS :{
+	RGBA: rgba(93, 97, 168, 1.00)
+	HEX: #5d61a8
+}
+
+Titre évènement :{
+	RGBA: rgba(25, 36, 68, 1.00)
+	HEX: #192444
+}
+
+Sous-titre évènement :{
+	RGBA: rgba(25, 36, 68, 1.00)
+	HEX: #192444
+}
