@@ -12,3 +12,9 @@ Sous-titre évènement :{
 	RGBA: rgba(25, 36, 68, 1.00)
 	HEX: #192444
 }
+
+Bande de couleur :{
+	Couleur: change
+	taille: (70, largeur de l'image)
+	position: (bas de l'image)
+}
